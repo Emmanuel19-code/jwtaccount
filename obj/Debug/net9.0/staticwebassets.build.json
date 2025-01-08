@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1IGPR+vJONUHP2GEf+lOoGZ7iLeYzvz+bGkPHyKFDco=",
+  "Source": "jwtaccount",
+  "BasePath": "_content/jwtaccount",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
