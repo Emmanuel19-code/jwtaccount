@@ -159,3 +159,5 @@ C:\Users\User\Desktop\C#Tut\jwtaccount\obj\Debug\net9.0\refint\jwtaccount.dll
 C:\Users\User\Desktop\C#Tut\jwtaccount\obj\Debug\net9.0\jwtaccount.pdb
 C:\Users\User\Desktop\C#Tut\jwtaccount\obj\Debug\net9.0\jwtaccount.genruntimeconfig.cache
 C:\Users\User\Desktop\C#Tut\jwtaccount\obj\Debug\net9.0\ref\jwtaccount.dll
+C:\Users\User\Desktop\C#Tut\jwtaccount\obj\Debug\net9.0\jwtaccount.sourcelink.json
+C:\Users\User\Desktop\C#Tut\jwtaccount\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
